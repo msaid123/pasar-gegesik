@@ -1,0 +1,16 @@
+.navbar-brand {
+  font-weight: bold;
+}
+.judul-hero {
+  color: white;
+  text-align: center;
+  font-weight: 800;
+  margin-top: 150px;
+}
+.text-hero {
+  color: white;
+  font-size: 18px;
+}
+.judul-content {
+  font-weight: bold;
+}
